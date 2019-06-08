@@ -1,0 +1,10 @@
+var ALIASES = {};
+ALIASES["failure_derive"] = {};
+ALIASES["heck"] = {};
+ALIASES["proc_macro2"] = {};
+ALIASES["quote"] = {};
+ALIASES["strum_macros"] = {};
+ALIASES["syn"] = {};
+ALIASES["synstructure"] = {};
+ALIASES["unicode_segmentation"] = {};
+ALIASES["unicode_xid"] = {};
